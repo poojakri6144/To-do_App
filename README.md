@@ -82,7 +82,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/poojakri6144/To-do_App.git
 2. Install Dependencies
 Navigate to the project directory and install the necessary dependencies:
 
