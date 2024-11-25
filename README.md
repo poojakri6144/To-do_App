@@ -25,7 +25,7 @@ Follow these steps to get the app running on your local machine.
 
 1. Clone the Repository
 Clone this repository to your local machine:
-      "git clone https://github.com/yourusername/todo-app.git"
+      "git clone https://github.com/poojakri6144/To-do_App.git"
 
 2. Install Dependencies
 Navigate to the project directory and install the necessary dependencies:
